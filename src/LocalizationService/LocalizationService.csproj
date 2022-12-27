@@ -23,9 +23,7 @@
         <ProjectReference Include="..\..\..\CommonLibrary\src\CommonLibrary.AspNetCore\CommonLibrary.AspNetCore.csproj" />
     </ItemGroup>
     <ItemGroup>
-      <Folder Include="Implementations" />
-      <Folder Include="Signals" />
-      <Folder Include="Slots" />
+      <Folder Include="ServiceBus\Consumer Contracts" />
     </ItemGroup>
 
 
